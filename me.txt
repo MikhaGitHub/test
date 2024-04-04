@@ -1,0 +1,10 @@
+Steps for upload repository on remote server(GitHub)
+Firstly is go over in Git Bash a command cd in your directory where located your local repository.
+Secondly is write in command line a command git init # this command or initializes already exesting repository or initializes local repository
+Therthly is write in command line a command git status(this is command not mandotery, it need for check status your local files)
+Five property is write in command line a command git add .(this command need for add all files from directory)
+Number six is write in command line a command git commit -m ""
+Number seven is write in command line a command git remote add 'Your https url from remote repository(or copy your path on remote git hub repository and add in the end .git'
+Look on your currently branch if it is master write command git push -u origin master
+or write git push -u origin main if your branch name is main
+After that commands all files will push on your remote repository(GitHub)
