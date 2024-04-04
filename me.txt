@@ -8,3 +8,6 @@ Number seven is write in command line a command git remote add 'Your https url f
 Look on your currently branch if it is master write command git push -u origin master
 or write git push -u origin main if your branch name is main
 After that commands all files will push on your remote repository(GitHub)
+```python
+print('Hello world')
+```
