@@ -1,4 +1,4 @@
-###Steps for upload repository on remote server(GitHub)
+# Steps for upload repository on remote server(GitHub)
 Firstly is go over in Git Bash a command cd in your directory where located your local repository.
 Secondly is write in command line a command git init # this command or initializes already exesting repository or initializes local repository
 Therthly is write in command line a command git status(this is command not mandotery, it need for check status your local files)
